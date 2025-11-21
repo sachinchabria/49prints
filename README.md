@@ -1,6 +1,6 @@
-# prints-by-sach
+# 49prints
 
-This repository contains the codebase for the PrintsBySach project (available at [https://printsbysach.com](https://printsbysach.com)), a Django-based application designed to manage and sell art prints and blog posts. The application includes models for handling prints, their variants, and associated cart functionality, as well as blog posts, tags, and comments. This README provides an overview of the core components, including models, serializers, URL routing, and frontend components.
+This repository contains the codebase for the 49prints project (available at [https://49prints.com](https://49prints.com)), a Django-based application designed to manage and sell art prints and blog posts. The application includes models for handling prints, their variants, and associated cart functionality, as well as blog posts, tags, and comments. This README provides an overview of the core components, including models, serializers, URL routing, and frontend components.
 
 ## Models
 
